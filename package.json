@@ -1,0 +1,24 @@
+{
+  "name": "js-pass-maker",
+  "version": "0.0.1",
+  "description": "Generate random password.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yokkie8383/js-pass-maker.git"
+  },
+  "keywords": [
+    "javascript",
+    "passward",
+    "generator"
+  ],
+  "author": "y.oki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yokkie8383/js-pass-maker/issues"
+  },
+  "homepage": "https://github.com/yokkie8383/js-pass-maker#readme"
+}
